@@ -121,5 +121,3 @@ $(document).ready(function () {
       document.getElementById("formContainer").style.display = "block";
       this.style.display = "none";
     });
-
-
